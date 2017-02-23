@@ -1,4 +1,4 @@
-FROM pulp/crane:latest
+FROM s1artie/pulp_crane:latest
 
 MAINTAINER Pulp Team <pulp-list@redhat.com>
 

@@ -1,4 +1,4 @@
-FROM pulp/base:latest
+FROM s1artie/pulp_base:latest
 MAINTAINER Pulp Team <pulp-list@redhat.com>
 
 ADD run.sh /run.sh
