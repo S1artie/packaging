@@ -1,5 +1,5 @@
 FROM s1artie/pulp_base:latest
-MAINTAINER Pulp Team <pulp-list@redhat.com>
+MAINTAINER Rene Schneider <rene.schneider@gebit.de>
 
 EXPOSE 80 443
 

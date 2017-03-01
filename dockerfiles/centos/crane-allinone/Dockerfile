@@ -1,6 +1,6 @@
 FROM s1artie/pulp_crane:latest
 
-MAINTAINER Pulp Team <pulp-list@redhat.com>
+MAINTAINER Rene Schneider <rene.schneider@gebit.de>
 
 ADD crane.conf /etc/crane.conf
 

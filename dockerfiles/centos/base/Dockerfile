@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER Pulp Team <pulp-list@redhat.com>
+MAINTAINER Rene Schneider <rene.schneider@gebit.de>
 
 ADD rhel-pulp.repo /etc/yum.repos.d/rhel-pulp.repo
 
